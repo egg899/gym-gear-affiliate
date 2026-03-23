@@ -7,20 +7,32 @@ function renderProductos(lista) {
     contenedor.innerHTML = "";
 
     lista.forEach(prod => {
-        contenedor.innerHTML += `
-        <div id="prod-${prod.id}" class="col-md-4 producto" data-categoria="${prod.categoria}">
-            <div class="card mb-4">
-                <img src="${prod.imagen}" class="card-img-top">
-                <div class="card-body">
-                    <h5 class="card-title">${prod.nombre}</h5>
-                    <p class="card-text">${prod.descripcion}</p>
-                    <a href="${prod.link}" target="_blank" class="btn btn-dark">
-                        Check it in Amazon
-                    </a>
-                </div>
-            </div>
+       contenedor.innerHTML += `
+<div id="prod-${prod.id}" class="col-md-4 producto" data-categoria="${prod.categoria}">
+    <div class="card mb-4 h-100 shadow-sm">
+
+        <img src="${prod.imagen}" class="card-img-top">
+
+        <div class="card-body d-flex flex-column">
+            <h5 class="card-title">${prod.nombre}</h5>
+
+            <p class="card-text small text-muted">
+                ${prod.descripcion.substring(0, 100)}...
+            </p>
+
+            <!-- BOTON MODAL -->
+            <button class="btn btn-outline-dark mb-2" onclick="abrirModal(${prod.id})">
+                👀 Quick View
+            </button>
+
+            <!-- BOTON AMAZON -->
+            <a href="${prod.link}" target="_blank" class="btn btn-dark mt-auto">
+                🔥 Buy on Amazon
+            </a>
         </div>
-        `;
+    </div>
+</div>
+`;
     });
 }
 
@@ -99,3 +111,44 @@ window.addEventListener("load", resaltarElemento);
 
 // Cuando cambia el hash
 window.addEventListener("hashchange", resaltarElemento);
+
+
+
+
+///Modal
+
+function abrirModal(id) {
+    const prod = productos.find(p => p.id === id);
+    const modalContenido = document.getElementById("modalContenido");
+
+    modalContenido.innerHTML = `
+        <div class="row">
+
+            <div class="col-md-6">
+                <img src="${prod.imagen}" class="img-fluid rounded">
+            </div>
+
+            <div class="col-md-6">
+                <h3>${prod.nombre}</h3>
+
+                <p class="text-muted">
+                    ${prod.descripcion}
+                </p>
+
+                <ul class="small">
+                    <li>✔ High Quality</li>
+                    <li>✔ Best Seller</li>
+                    <li>✔ Recommended for Home Gym</li>
+                </ul>
+
+                <a href="${prod.link}" target="_blank" class="btn btn-dark w-100 mt-3">
+                    🔥 Buy Now on Amazon
+                </a>
+            </div>
+
+        </div>
+    `;
+
+    const modal = new bootstrap.Modal(document.getElementById('productoModal'));
+    modal.show();
+}
