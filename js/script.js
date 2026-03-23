@@ -144,11 +144,21 @@ function abrirModal(id) {
                 <a href="${prod.link}" target="_blank" class="btn btn-dark w-100 mt-3">
                     🔥 Buy Now on Amazon
                 </a>
+
+                <small class="text-muted">
+                    Click outside to close
+                </small>
             </div>
 
         </div>
     `;
 
+    window.location.hash = `prod-${id}`;
+
+    resaltarElemento();
+
     const modal = new bootstrap.Modal(document.getElementById('productoModal'));
     modal.show();
 }
+
+
