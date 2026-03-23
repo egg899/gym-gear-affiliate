@@ -15,7 +15,7 @@ function renderProductos(lista) {
                     <h5 class="card-title">${prod.nombre}</h5>
                     <p class="card-text">${prod.descripcion}</p>
                     <a href="${prod.link}" target="_blank" class="btn btn-dark">
-                        Ver en Amazon
+                        Check it in Amazon
                     </a>
                 </div>
             </div>
@@ -69,7 +69,7 @@ let elementoActual = null;
 function resaltarElemento() {
      const hash = window.location.hash;
     if (!hash) return;
-    
+
     const container = document.querySelector(hash);
     if(!container) return;
 
