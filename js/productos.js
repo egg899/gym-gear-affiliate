@@ -226,5 +226,10 @@ const productos = [
                 
    { id: 76, nombre: "GooingTop LED Grow Light,6000K Full Spectrum Clip Plant Growing Lamp with White Red LEDs", descripcion: "Give your indoor plants the perfect sunlight all year round with this Full Spectrum LED Grow Light! 🌞🌿 Optimal Light for Growth: 10 Red + 74 White LEDs simulate full-spectrum sunlight (6000K) for healthier plants. High Color Accuracy: Soft, flicker-free light with CRI 95 – also perfect as a reading lamp. Custom Timer Settings: Choose 4H, 8H, or 12H per 24-hour cycle for automated plant care. Easy & Convenient: Simple to set, ideal for indoor gardens, seedlings, and houseplants.", 
                 imagen: "https://i.pinimg.com/736x/ce/43/e1/ce43e105f618651ce8ceff054bc11d51.jpg", 
-                link: "https://amzn.to/4aD6e2d", categoria: "Amazon Fitness Finds" },                
+                link: "https://amzn.to/4aD6e2d", categoria: "Amazon Fitness Finds" },  
+                
+    { id: 77, nombre: "Franklin Sports X-40 Outdoor Pickleballs - Official Ball of USA Pickleball, APP Tour + US Open", descripcion: "Play your best game with Franklin X-40 Outdoor Pickleballs! 🏓🌟40 machine-drilled holes for balanced flight and consistent spin. One-piece construction for durability and dent resistance. Perfect for outdoor courts, pro and amateur players alike. USA Pickleball approved.", 
+                imagen: "https://i.pinimg.com/736x/ba/40/b5/ba40b532e6d33ea29cad291badfba4ac.jpg", 
+                link: "https://amzn.to/40Ujkn7", categoria: "Gym Essentials" },            
+           
             ];
