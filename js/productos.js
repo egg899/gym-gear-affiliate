@@ -134,5 +134,97 @@ const productos = [
    
    { id: 54, nombre: "Downshiftology Healthy Meal Prep: 100+ Make-Ahead Recipes", descripcion: "Simplify your meals and eat healthy with the Downshiftology Meal Prep Cookbook! 🥗🍴Amazon Bestseller: Publisher’s Weekly national bestseller with 100 fresh, gluten-free dishes. Practical & Easy: Learn to prep meals efficiently and reduce food waste. Healthy & Delicious: Recipes focus on whole ingredients for balanced eating. From the Creator of Downshiftology: Tips from Lisa Bryan, popular blogger & YouTuber.", 
                 imagen: "https://i.pinimg.com/736x/79/0a/b6/790ab69ea85184836e2818f6d43646d0.jpg", 
-                link: "https://amzn.to/3MsFuJM", categoria: "Healthy Lifestyle" },                          
-];
+                link: "https://amzn.to/3MsFuJM", categoria: "Healthy Lifestyle" },   
+                
+                
+   { id: 55, nombre: "Protect Your Kids ⚾ Baseball Helmet Must Have", descripcion: "Keep your kids safe on the field with this Rawlings batting helmet. Features dual density foam lining, secure fit, and ventilation system for comfort during games and practice. Meets safety standards for youth baseball.", 
+                imagen: "https://i.pinimg.com/736x/40/c2/e5/40c2e52d7a74f4151c0f524f3145a046.jpg", 
+                link: "https://amzn.to/47ZkbXy", categoria: "Outdoor Adventure Gear" }, 
+                
+   { id: 56, nombre: "Bestseller Kids Batting Helmet ⚾ Safe & Comfortable", descripcion: "One of the best-selling batting helmets for kids. Designed for T-ball players with dual density foam for comfort and protection. COOLFLO venting system keeps players cool and dry during every game.", 
+                imagen: "https://i.pinimg.com/736x/c9/e6/99/c9e6995bdd3f6df418205539b15f1030.jpg", 
+                link: "https://amzn.to/4lFWvNy", categoria: "Outdoor Adventure Gear" },      
+                
+   { id: 57, nombre: "You Need This Tactical Backpack 🎯 Travel & Survival Gear", descripcion: "Upgrade your gear with this tactical backpack. Perfect for outdoor adventures, travel, hiking, and survival. Large 45L capacity with molle system for maximum storage and versatility.", 
+                imagen: "https://i.pinimg.com/736x/90/b5/13/90b5139fe499c6d44cc1bb2289d14c75.jpg", 
+                link: "https://amzn.to/4lFWvNy", categoria: "Outdoor Adventure Gear" },   
+                
+   
+   { id: 58, nombre: "Amazon Must Have Tactical Backpack 🔥 45L Military Gear", descripcion: "This tactical backpack is a must-have for outdoor lovers. 45L military backpack ideal for hiking, camping, travel, and survival situations. Strong, durable, and designed for heavy-duty use.", 
+                imagen: "https://i.pinimg.com/736x/da/8e/1a/da8e1a91ba3c5c2ad6cef71134f3d042.jpg", 
+                link: "https://amzn.to/3NVtWPP", categoria: "Outdoor Adventure Gear" },   
+                
+   { id: 59, nombre: "Best Tactical Backpack 2026 🎒 Outdoor Must Have", descripcion: "Make your outdoor adventures to the next level with this 45L tactical backpack. Durable military backpack perfect for hiking, camping, travel, survival, and everyday use. Spacious rucksack with molle system built for performance.", 
+                imagen: "https://i.pinimg.com/736x/92/d8/61/92d8610d8981014af392d8bf58f3bf07.jpg", 
+                link: "https://amzn.to/4m2Hp5f", categoria: "Outdoor Adventure Gear" },      
+
+   { id: 60, nombre: "Outdoor Essential You Need for Every Trip 🌲", descripcion: "Whether you’re hiking, biking, or exploring, this hydration pack keeps your essentials organized and your water always within reach.", 
+                imagen: "https://i.pinimg.com/736x/03/bb/5f/03bb5fcdfaa0514e3a184dc9251c6ad7.jpg", 
+                link: "https://amzn.to/4smx0ne", categoria: "Outdoor Adventure Gear" },   
+                
+   { id: 61, nombre: "2L Hydration Pack for Hiking & Running", descripcion: "Take your outdoor workouts to the next level with this 2L hydration backpack. Lightweight, breathable, and designed for comfort on long trips.", 
+                imagen: "https://i.pinimg.com/736x/ae/39/c1/ae39c15c5efe51b6526001fa71e77007.jpg", 
+                link: "https://amzn.to/4blXxLm", categoria: "Outdoor Adventure Gear" },        
+   
+   { id: 62, nombre: "Stay Hydrated Anywhere 💧 Lightweight Hydration Backpack", descripcion: "Perfect for hiking, running, and cycling, this lightweight hydration backpack keeps you hydrated on every adventure. Comfortable, durable, and easy to carry!", 
+                imagen: "https://i.pinimg.com/736x/d3/1b/77/d31b775470d2c160084a62caaea18306.jpg", 
+                link: "https://amzn.to/4uDEhQX", categoria: "Outdoor Adventure Gear" },
+                
+   { id: 63, nombre: "Your Outdoor Essentials Stay Dry – Waterproof Backpack Bag", descripcion: "Whether you’re camping, kayaking, or exploring nature, this dry bag keeps your valuables protected and dry. Lightweight and versatile gear for every adventure!", 
+                imagen: "https://i.pinimg.com/736x/49/ac/04/49ac045299ad5c97024d89d83b89055f.jpg", 
+                link: "https://amzn.to/3PgkW8s", categoria: "Outdoor Adventure Gear" },
+   
+   { id: 64, nombre: "Baseball & Softball Glove – Easy Break-In Fielding Mitt for Youth & Adults", descripcion: "Step up your game with this lightweight baseball and softball glove! ⚾🖐️Quick break-in for game-ready performance. Adjustable wrist strap for a secure, snug fit. Hand-formed pocket for easier, more responsive catches. Perfect for beginners, youth, and recreational players.", 
+                imagen: "https://i.pinimg.com/736x/49/ac/04/49ac045299ad5c97024d89d83b89055f.jpg", 
+                link: "https://amzn.to/4rvCcUs", categoria: "Outdoor Adventure Gear" },
+   
+   { id: 65, nombre: "Adventure Ready – Waterproof Dry Bag for Outdoor Trips", descripcion: "Adventure Ready – Waterproof Dry Bag for Outdoor Trips", 
+                imagen: "https://i.pinimg.com/736x/c0/9c/fd/c09cfd4786d050488837a84dae68e6ed.jpg", 
+                link: "https://amzn.to/4bygCbZ", categoria: "Outdoor Adventure Gear" },
+                
+   { id: 66, nombre: "Waterproof Dry Bag – Protect Your Gear on Every Adventure", descripcion: "Keep your essentials safe and dry wherever you go with this waterproof dry bag backpack. Perfect for kayaking, camping, beach days, and outdoor fun!", 
+                imagen: "https://i.pinimg.com/736x/75/fc/96/75fc96aaccdffbcb8ad8eafb11ae21cd.jpg", 
+                link: "https://amzn.to/4bCYEoV", categoria: "Outdoor Adventure Gear" },                                       
+
+   { id: 67, nombre: "LOVEVOOK 40L Travel Backpack for Women & Men, Airline Approved Carry On Luggage with 3 Packing Cubes", descripcion: "Travel smart and organized with this versatile airline-approved carry-on backpack! 🧳✈️Fits under the seat or in the overhead bin; approved by Spirit, Frontier, JetBlue, and more. Spacious 40L capacity with 4 compartments and multiple pockets. Organize your personal items for 3–7 days of travel. Perfect for weekend trips, business travel, or daily commuting. Lightweight, durable, and easy to carry.", 
+                imagen: "https://i.pinimg.com/736x/7b/5e/8f/7b5e8f8ecc82dd7d0193622e7795214c.jpg", 
+                link: "https://amzn.to/3Mqz9P7", categoria: "Outdoor Adventure Gear" },  
+   
+   { id: 68, nombre: "LOVEVOOK 40L Travel Backpack for Women & Men, Airline Approved Carry On Luggage with 3 Packing Cubes", descripcion: "Travel in comfort with the FlyHugz U-shaped neck pillow! ✈️🛌Ultimate Neck Support: Keeps head and neck upright to prevent aches and strains. Comfortable & Breathable: Soft, sweat-resistant fabric keeps you cool on long trips. Chin Support: Helps reduce snoring and mouth-opening while napping. Travel-Ready: Perfect for airplanes, trains, cars, and long commutes. Easy Care: Machine-washable, fast-drying cover for fresh comfort every journey.", 
+                imagen: "https://i.pinimg.com/736x/75/bd/84/75bd843da2d2261e96031b9f1cf0d0d9.jpg", 
+                link: "https://amzn.to/4cAiuTA", categoria: "Outdoor Adventure Gear" },                                      
+
+   { id: 69, nombre: "JBL Clip 5 Portable Bluetooth Speaker 🔊 Waterproof Travel Speaker with Carabiner", descripcion: "Take your music anywhere with the JBL Clip 5 Portable Bluetooth Speaker. This ultra-portable, waterproof and dustproof speaker delivers big JBL sound with punchy bass. The integrated carabiner makes it easy to clip onto backpacks for travel, hiking, or outdoor adventures, with up to 12 hours of playtime.", 
+                imagen: "https://i.pinimg.com/736x/f4/a3/fb/f4a3fb6f636ddeee0fc74ba2d365b6c4.jpg", 
+                link: "https://amzn.to/4ltWSe2", categoria: "Amazon Fitness Finds" }, 
+                
+   { id: 70, nombre: "1 Gallon Insulated Water Bottle 💧 48H Cold | Perfect for Gym & Hiking", descripcion: "Stay hydrated with this 1 gallon insulated stainless steel water bottle. Triple-wall vacuum insulation keeps drinks cold for 48 hours and hot for 24. Includes leak-proof straw & spout lids plus a paracord handle with compass, perfect for the gym, hiking, camping, and travel.", 
+                imagen: "https://i.pinimg.com/736x/ed/09/ff/ed09ff23a5160934fc3a07db90d4e8d8.jpg", 
+                link: "https://amzn.to/3N3VjXK", categoria: "Amazon Fitness Finds" },     
+   
+   { id: 71, nombre: "ZELUS Weighted Vest – Adjustable 6–30lb for Workouts, Running & Strength Training", descripcion: "Push your workouts to the next level with the ZELUS Weighted Vest! 🏋️‍♂️Evenly distributed iron sand for strength, running, yoga, or HIIT. Adjustable buckle straps fit chest sizes 31.5'–45'. Soft, durable spandex for all-day comfort. Armband pouch & rear mesh pocket for keys, phone, or snacks; reflective strips keep you visible.", 
+                imagen: "https://i.pinimg.com/736x/7c/80/d7/7c80d7b117a30efbdf5a7572b578fbf7.jpg", 
+                link: "https://amzn.to/4sjFD1W", categoria: "Amazon Fitness Finds" },    
+
+   { id: 72, nombre: "Hanes mens Underwear Boxer Briefs Pack, Cool & Breathable Cotton Moisture-wicking Underwear for Men", descripcion: "Stay comfortable and supported all day with these men’s cotton boxer briefs! 🩲✨No-ride-up fit with Comfort Flex waistband for secure, all-day comfort. Soft cotton or cotton-rich blend that moves with you. Moisture-wicking Cool Comfort technology keeps you dry during workouts or daily wear. Ideal for active lifestyles or lounging at home. Breathable and flexible design for maximum comfort.", 
+                imagen: "https://i.pinimg.com/736x/9b/f7/8d/9bf78dadaff06a2380eee065a7cfd915.jpg", 
+                link: "https://amzn.to/4tR3Ai7", categoria: "Amazon Fitness Finds" },                          
+   
+   { id: 73, nombre: "OneOdio Wired Over Ear Headphones Hi-Res Studio Monitor & Mixing DJ Stereo Headsets", descripcion: "Experience professional-quality sound and all-day comfort with the OneOdio Studio Monitor Headphones! 🎧🎶Powerful Bass & Clear Audio: 50mm speaker drivers with neodymium magnets deliver crisp highs, clear vocals, and balanced stereo sound. Built for Comfort: Soft padded ear cushions and adjustable headband for long listening sessions. Noise Isolation: Enjoy immersive sound without distractions. Perfect for Studio & Home Use: Ideal for music production, gaming, or everyday listening.", 
+                imagen: "https://i.pinimg.com/736x/09/2a/2c/092a2cf0936010a3453f4bc2f9a32c36.jpg", 
+                link: "https://amzn.to/3Olf2Ct", categoria: "Amazon Fitness Finds" },
+            
+   { id: 74, nombre: "STANLEY Quencher H2.0 Tumbler with Handle and Straw 30 oz | Flowstate 3-Position Lid", descripcion: "Keep your drinks at the perfect temperature all day with the H2.0 FlowState Tumbler! 🥤❄️☕Ultimate Hydration: Double-wall vacuum insulation keeps drinks cold, iced, or hot for hours. Multiple Sizes: Available in 14oz, 20oz, 30oz, 40oz, and 64oz – fits your lifestyle. Car-Friendly: Narrow base (except 64oz) fits most cup holders for on-the-go sipping. Advanced Lid: Rotating cover with straw opening, drink opening, or full-cover for leak resistance. Durable & Convenient: Perfect for work, travel, outdoor adventures, or home use.", 
+                imagen: "https://i.pinimg.com/736x/c8/41/4d/c8414d28b7f230a29107f57ba22d558b.jpg", 
+                link: "https://amzn.to/4aF5U33", categoria: "Amazon Fitness Finds" },         
+
+
+   { id: 75, nombre: "Owala FreeSip Insulated Stainless Steel Water Bottle with Straw", descripcion: "Keep your drinks cold and your hydration game strong with this 24oz insulated water bottle! ❄️💦Dual Sipping Options: Patented FreeSip spout allows upright sipping or tilting back to swig. Protective Lid: Push-to-open lid keeps spout clean, carry loop doubles as a lock. Long-Lasting Cold: Double-wall insulation keeps drinks cold up to 24 hours; wide opening for ice and easy cleaning. Safe & Convenient: BPA, lead, and phthalate-free; dishwasher-safe lid; hand wash cup; fits cup holders.", 
+                imagen: "https://i.pinimg.com/736x/61/42/69/6142690cc94d2838746d41b349993a9d.jpg", 
+                link: "https://amzn.to/4kXPJTj", categoria: "Amazon Fitness Finds" },          
+                
+                
+   { id: 76, nombre: "GooingTop LED Grow Light,6000K Full Spectrum Clip Plant Growing Lamp with White Red LEDs", descripcion: "Give your indoor plants the perfect sunlight all year round with this Full Spectrum LED Grow Light! 🌞🌿 Optimal Light for Growth: 10 Red + 74 White LEDs simulate full-spectrum sunlight (6000K) for healthier plants. High Color Accuracy: Soft, flicker-free light with CRI 95 – also perfect as a reading lamp. Custom Timer Settings: Choose 4H, 8H, or 12H per 24-hour cycle for automated plant care. Easy & Convenient: Simple to set, ideal for indoor gardens, seedlings, and houseplants.", 
+                imagen: "https://i.pinimg.com/736x/ce/43/e1/ce43e105f618651ce8ceff054bc11d51.jpg", 
+                link: "https://amzn.to/4aD6e2d", categoria: "Amazon Fitness Finds" },                
+            ];
