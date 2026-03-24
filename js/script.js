@@ -8,10 +8,10 @@ function renderProductos(lista) {
 
     lista.forEach(prod => {
        contenedor.innerHTML += `
-<div id="prod-${prod.id}" class="col-md-4 producto" data-categoria="${prod.categoria}">
+<div id="prod-${prod.id}" class="col-md-4 producto mb-2" data-categoria="${prod.categoria}">
     <div class="card mb-4 h-100 shadow-sm">
 
-        <img src="${prod.imagen}" class="card-img-top">
+        <img src="${prod.imagen}" class="card-img-top ">
 
         <div class="card-body d-flex flex-column">
             <h5 class="card-title">${prod.nombre}</h5>

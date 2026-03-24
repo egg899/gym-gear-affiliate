@@ -93,8 +93,46 @@ const productos = [
    
    { id: 44, nombre: "Gymreapers Ankle Straps For Cable Machine Kickbacks, Glute Workouts, Lower Body Exercises", descripcion: "Enhance your lower-body workouts with these ankle straps! 🍑💪Targeted Training: Perfect for glute kickbacks, leg curls, and cable machine exercises. Versatile Use: Ideal for gym sessions or home workouts. Durable & Comfortable: Built to withstand repeated resistance training while keeping you secure.", 
                 imagen: "https://i.pinimg.com/736x/bc/91/bc/bc91bc2dc1d1de988e879b4d86f95496.jpg", 
-                link: "https://amzn.to/4azjiW9", categoria: "Gym Essentials" }, 
+                link: "https://amzn.to/4azjiW9", categoria: "Gym Essentials" },
+                
+   { id: 45, nombre: "Youth Baseball Helmet ⚾ Cool & Comfortable Fit", descripcion: "This Rawlings batting helmet is perfect for T-ball players. Designed with COOLFLO venting system to keep players cool, secure fit for comfort, and durable construction for long-term performance. One size fits most.", 
+                imagen: "https://i.pinimg.com/736x/8d/49/bd/8d49bd65b4d4b58ef1f44feb72356288.jpg", 
+                link: "https://amzn.to/3PokbKs", categoria: "Healthy Lifestyle" },        
+                
+   { id: 46, nombre: "You Need These Wellness Gummies 🍏 Daily Health Boost", descripcion: "Upgrade your wellness routine with these apple cider vinegar gummies. Designed to support metabolism, digestion, and energy levels. Perfect for busy lifestyles and daily health goals.", 
+                imagen: "https://i.pinimg.com/736x/de/75/aa/de75aa1e3539a83e9a1b35d02337f768.jpg", 
+                link: "https://amzn.to/4lIlik9", categoria: "Healthy Lifestyle" },                
                
+   { id: 47, nombre: "Amazon Must Have Wellness Gummies 🍏 Energy & Digestion", descripcion: "Boost your daily routine with these metabolism gummies. Infused with apple cider vinegar, Vitamin B12, and chromium to support energy and digestive health. A simple and delicious way to stay consistent.", 
+                imagen: "https://i.pinimg.com/736x/67/4c/5e/674c5e0c88bd7c86c0d23300b2b9fe90.jpg", 
+                link: "https://amzn.to/4lIl6RX", categoria: "Healthy Lifestyle" },
+                
+   { id: 48, nombre: "Apple Cider Vinegar Gummies 🍏 Metabolism Boost Daily", descripcion: "Support your metabolism and energy levels with these apple cider vinegar gummies. Made with Vitamin B12 and chromium, perfect for digestive health and daily wellness routines. Easy, tasty, and convenient for everyday use.", 
+                imagen: "https://i.pinimg.com/736x/b1/2d/da/b12dda2cc35a8214d7148d05507aff45.jpg", 
+                link: "https://amzn.to/47eiF3A", categoria: "Healthy Lifestyle" }, 
+                
+   { id: 49, nombre: "Healthy Doesn’t Have to Be Boring 😋 Protein Shake", descripcion: "Craving something sweet? This Fruity Pebbles protein shake gives you the taste you love while helping you stay on track with your fitness goals.", 
+                imagen: "https://i.pinimg.com/736x/50/eb/c8/50ebc885d08e7c80aebd6187b74ed545.jpg", 
+                link: "https://amzn.to/4bzxuPI", categoria: "Healthy Lifestyle" },   
+                
+   { id: 50, nombre: "Fuel Your Workout with 25g Protein 💪", descripcion: "Support muscle growth and recovery with this fast-absorbing whey protein. Low carbs, low fat, and perfect for pre or post workout.", 
+                imagen: "https://i.pinimg.com/736x/83/4b/72/834b72fe53ba65cb085c23fc40c60050.jpg", 
+                link: "https://amzn.to/4seRr5k", categoria: "Healthy Lifestyle" },          
+                
+                
+   { id: 51, nombre: "Fruity Pebbles Protein Shake 🍓 High Protein Treat", descripcion: "Enjoy your protein like never before! This Fruity Pebbles whey protein delivers amazing flavor with 25g of protein and low sugar. Perfect for your healthy lifestyle.", 
+                imagen: "https://i.pinimg.com/736x/0e/e6/fa/0ee6faa2960b4f574be5a9ff9de9640b.jpg", 
+                link: "https://amzn.to/4uDdZ15", categoria: "Healthy Lifestyle" },                  
 
-
+   { id: 52, nombre: "Electrolyte Hydration Powder – Lemon Lime Drink Mix for Energy & Recovery", descripcion: "Boost your hydration and energy with Liquid I.V.® Hydration Multiplier! 🍋💧Perfect for workouts, travel, or outdoor adventures. Fast-acting electrolyte powder for staying refreshed all day. Just mix with water for a convenient hydration boost", 
+                imagen: "https://i.pinimg.com/736x/c2/f5/f1/c2f5f1cc01f355356debfb63ae9d7c3d.jpg", 
+                link: "https://amzn.to/470shio", categoria: "Healthy Lifestyle" },    
+                
+   { id: 53, nombre: "Etekcity Food Kitchen Scale, Digital Grams and Ounces for Weight Loss, Baking, Cooking", descripcion: "Measure ingredients accurately and effortlessly with this digital kitchen scale! 🥗⚖️ Supports multiple units: oz, lb:oz, fl’oz, g, mL with tare function. Accurately weighs up to 11 lb / 5 kg in 1 g increments. Compact, sleek design fits easily in most kitchens and cabinets. Easy-to-clean 304 food-grade stainless steel surface. Backlit LCD display with large fonts for quick reading. Includes 2 AAA batteries for immediate use.", 
+                imagen: "https://i.pinimg.com/736x/a4/41/4b/a4414bc60f30c4c97e580d7e7a3c5dbf.jpg", 
+                link: "https://amzn.to/4b3ZSKt", categoria: "Healthy Lifestyle" }, 
+   
+   { id: 54, nombre: "Downshiftology Healthy Meal Prep: 100+ Make-Ahead Recipes", descripcion: "Simplify your meals and eat healthy with the Downshiftology Meal Prep Cookbook! 🥗🍴Amazon Bestseller: Publisher’s Weekly national bestseller with 100 fresh, gluten-free dishes. Practical & Easy: Learn to prep meals efficiently and reduce food waste. Healthy & Delicious: Recipes focus on whole ingredients for balanced eating. From the Creator of Downshiftology: Tips from Lisa Bryan, popular blogger & YouTuber.", 
+                imagen: "https://i.pinimg.com/736x/79/0a/b6/790ab69ea85184836e2818f6d43646d0.jpg", 
+                link: "https://amzn.to/3MsFuJM", categoria: "Healthy Lifestyle" },                          
 ];
