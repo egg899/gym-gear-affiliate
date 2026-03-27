@@ -230,6 +230,20 @@ const productos = [
                 
     { id: 77, nombre: "Franklin Sports X-40 Outdoor Pickleballs - Official Ball of USA Pickleball, APP Tour + US Open", descripcion: "Play your best game with Franklin X-40 Outdoor Pickleballs! 🏓🌟40 machine-drilled holes for balanced flight and consistent spin. One-piece construction for durability and dent resistance. Perfect for outdoor courts, pro and amateur players alike. USA Pickleball approved.", 
                 imagen: "https://i.pinimg.com/736x/ba/40/b5/ba40b532e6d33ea29cad291badfba4ac.jpg", 
-                link: "https://amzn.to/40Ujkn7", categoria: "Gym Essentials" },            
+                link: "https://amzn.to/40Ujkn7", categoria: "Gym Essentials" },   
+                
+                
+    { id: 78, nombre: "Take your workouts to the next level with this beginner-friendly punching bag set 🥊", descripcion: "Adjustable height stand for teens and adults. Spring-loaded design for fast rebound and better training. Includes gloves, pump, and stable base for home workouts.", 
+                imagen: "https://i.pinimg.com/736x/6d/46/fe/6d46feba37559f625ac79bfabf8b19e5.jpg", 
+                link: "https://amzn.to/4uU7A1H", categoria: "Beginner Workout Gear" },             
+                
+                
+    { id: 79, nombre: "Youth Baseball Glove for Kids (Ages 3–5) | Lightweight T-Ball Beginner Glove", descripcion: "Perfect starter glove for young baseball players learning the game. This lightweight youth baseball glove is designed for comfort and easy catching, helping beginners practice their fielding skills with confidence. Great for backyard practice, park games, and little league training. ", 
+                imagen: "https://i.pinimg.com/736x/43/23/08/432308550e0029440ec78613c2ea36d6.jpg", 
+                link: "https://amzn.to/4lw1Uqt", categoria: "Beginner Workout Gear" }, 
+                
+    { id: 80, nombre: "NCAA Final Four Basketball – Official Size Indoor Game Ball", descripcion: "Take your game to the next level with the WILSON NCAA Final Four Basketball! 🏀 High-definition pebble surface for superior grip. Deep channel construction for better handling and control. Durable design built for indoor games, practice, and training", 
+                imagen: "https://i.pinimg.com/736x/4d/e6/13/4de613bfa59bfe497ef3ddc1ad3cb3ff.jpg", 
+                link: "https://amzn.to/4uyYCHe", categoria: "Beginner Workout Gear" },            
            
             ];
