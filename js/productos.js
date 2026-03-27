@@ -244,6 +244,10 @@ const productos = [
                 
     { id: 80, nombre: "NCAA Final Four Basketball – Official Size Indoor Game Ball", descripcion: "Take your game to the next level with the WILSON NCAA Final Four Basketball! 🏀 High-definition pebble surface for superior grip. Deep channel construction for better handling and control. Durable design built for indoor games, practice, and training", 
                 imagen: "https://i.pinimg.com/736x/4d/e6/13/4de613bfa59bfe497ef3ddc1ad3cb3ff.jpg", 
-                link: "https://amzn.to/4uyYCHe", categoria: "Beginner Workout Gear" },            
+                link: "https://amzn.to/4uyYCHe", categoria: "Beginner Workout Gear" },    
+    
+    { id: 81, nombre: "Sculpt your glutes with precision using these ankle straps for cable machines 🍑", descripcion: "Designed to target glutes without using momentum. Soft padded support for comfortable workouts. Perfect for kickbacks, leg day, and home or gym training", 
+                imagen: "https://i.pinimg.com/736x/50/14/2c/50142cf17f4bb7ef7ee6762746e747f6.jpg", 
+                link: "https://amzn.to/3O6GC6x", categoria: "Gym Essentials" },             
            
             ];
