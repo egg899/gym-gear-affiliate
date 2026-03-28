@@ -248,6 +248,10 @@ const productos = [
     
     { id: 81, nombre: "Sculpt your glutes with precision using these ankle straps for cable machines 🍑", descripcion: "Designed to target glutes without using momentum. Soft padded support for comfortable workouts. Perfect for kickbacks, leg day, and home or gym training", 
                 imagen: "https://i.pinimg.com/736x/50/14/2c/50142cf17f4bb7ef7ee6762746e747f6.jpg", 
-                link: "https://amzn.to/3O6GC6x", categoria: "Gym Essentials" },             
+                link: "https://amzn.to/3O6GC6x", categoria: "Gym Essentials" },  
+                
+    { id: 82, nombre: "Build strong abs at home with this ab roller wheel 💪", descripcion: "Targets core, abs, and lower back for faster results. Stable dual-wheel design for better balance. Perfect for beginners and home workouts", 
+                imagen: "https://i.pinimg.com/736x/83/81/cd/8381cd3fd65a40cc4738a5001c3e6869.jpg", 
+                link: "https://amzn.to/4bXcClH", categoria: "Gym Essentials" },              
            
             ];
