@@ -257,6 +257,11 @@ const productos = [
                 
     { id: 83, nombre: "Push-ups hurting your wrists? Try this", descripcion: "If push-ups feel uncomfortable or hurt your wrists, this simple setup makes them easier and more effective. Perfect for beginners training at home.", 
                 imagen: "https://i.pinimg.com/736x/5b/6d/2b/5b6d2b9995e0f8c15946ce0fbf6ea73c.jpg", 
-                link: "https://amzn.to/3NXqSCJ", categoria: "Gym Essentials" },             
+                link: "https://amzn.to/3NXqSCJ", categoria: "Gym Essentials" }, 
+                
+                
+    { id: 84, nombre: "Knee pain during workouts? Try this", descripcion: "If your knees hurt when you train, this simple support can help reduce discomfort and make workouts feel more stable. Perfect for beginners and home workouts.", 
+                imagen: "https://i.pinimg.com/736x/91/bd/70/91bd70317cdf48783ecbf79aeed3e59b.jpg", 
+                link: "https://amzn.to/4bJpeOg", categoria: "Gym Essentials" },                
            
             ];
