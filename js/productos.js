@@ -252,6 +252,11 @@ const productos = [
                 
     { id: 82, nombre: "Build strong abs at home with this ab roller wheel 💪", descripcion: "Targets core, abs, and lower back for faster results. Stable dual-wheel design for better balance. Perfect for beginners and home workouts", 
                 imagen: "https://i.pinimg.com/736x/83/81/cd/8381cd3fd65a40cc4738a5001c3e6869.jpg", 
-                link: "https://amzn.to/4bXcClH", categoria: "Gym Essentials" },              
+                link: "https://amzn.to/4bXcClH", categoria: "Gym Essentials" }, 
+                
+                
+    { id: 83, nombre: "Push-ups hurting your wrists? Try this", descripcion: "If push-ups feel uncomfortable or hurt your wrists, this simple setup makes them easier and more effective. Perfect for beginners training at home.", 
+                imagen: "https://i.pinimg.com/736x/5b/6d/2b/5b6d2b9995e0f8c15946ce0fbf6ea73c.jpg", 
+                link: "https://amzn.to/3NXqSCJ", categoria: "Gym Essentials" },             
            
             ];
