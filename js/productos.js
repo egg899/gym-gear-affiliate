@@ -262,6 +262,10 @@ const productos = [
                 
     { id: 84, nombre: "Knee pain during workouts? Try this", descripcion: "If your knees hurt when you train, this simple support can help reduce discomfort and make workouts feel more stable. Perfect for beginners and home workouts.", 
                 imagen: "https://i.pinimg.com/736x/91/bd/70/91bd70317cdf48783ecbf79aeed3e59b.jpg", 
-                link: "https://amzn.to/4bJpeOg", categoria: "Gym Essentials" },                
+                link: "https://amzn.to/4bJpeOg", categoria: "Gym Essentials" },  
+    
+   { id: 85, nombre: "Track Your Health Effortlessly 💪", descripcion: "Stay on top of your fitness and health with a simple daily tracker. Monitor your activity, sleep and performance to improve your routine without overthinking it.", 
+             imagen: "https://m.media-amazon.com/images/I/61ZtqtvoD2L._AC_SL1500_.jpg", 
+                link: "https://amzn.to/4mX6Gy2", categoria: "Amazon FInd Fitness" },             
            
             ];
