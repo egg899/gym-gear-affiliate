@@ -266,6 +266,10 @@ const productos = [
     
    { id: 85, nombre: "Track Your Health Effortlessly 💪", descripcion: "Stay on top of your fitness and health with a simple daily tracker. Monitor your activity, sleep and performance to improve your routine without overthinking it.", 
              imagen: "https://m.media-amazon.com/images/I/61ZtqtvoD2L._AC_SL1500_.jpg", 
-                link: "https://amzn.to/4mX6Gy2", categoria: "Amazon FInd Fitness" },             
+                link: "https://amzn.to/4mX6Gy2", categoria: "Amazon FInd Fitness" },
+                
+    { id: 86, nombre: "Easy knee support for workouts", descripcion: "Struggling with knee discomfort while training? Adding proper support can make a huge difference in stability and performance.", 
+             imagen: "https://m.media-amazon.com/images/I/81YtCVhylIL._SL1500_.jpg", 
+                link: "https://amzn.to/3QAxmbQ", categoria: "Amazon FInd Fitness" },            
            
             ];
