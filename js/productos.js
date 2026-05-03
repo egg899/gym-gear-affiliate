@@ -270,6 +270,9 @@ const productos = [
                 
     { id: 86, nombre: "Easy knee support for workouts", descripcion: "Struggling with knee discomfort while training? Adding proper support can make a huge difference in stability and performance.", 
              imagen: "https://m.media-amazon.com/images/I/81YtCVhylIL._SL1500_.jpg", 
-                link: "https://amzn.to/3QAxmbQ", categoria: "Amazon FInd Fitness" },            
+                link: "https://amzn.to/3QAxmbQ", categoria: "Amazon FInd Fitness" },
+    { id: 87, nombre: "Lost Your Game Balls? Fix It Fast 🎯", descripcion: "Don’t let missing balls ruin your game night Keep your roll & score or toss games running smoothly with these durable replacement balls Perfect size for arcade-style games, ladder toss, and backyard fun. Built to handle endless throws without cracking. Includes 6 balls so you’re always ready to play. Great for family nights, parties, and outdoor fun 🎉", 
+             imagen: "https://m.media-amazon.com/images/I/613wZQV4dbL._AC_SX466_PIcountsize-6,TopRight,0,0_SH20_.jpg", 
+                link: "https://amzn.to/48C5Qki", categoria: "Outdoor Adventure Gear" },                        
            
             ];
