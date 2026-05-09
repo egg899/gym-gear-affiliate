@@ -273,6 +273,9 @@ const productos = [
                 link: "https://amzn.to/3QAxmbQ", categoria: "Amazon FInd Fitness" },
     { id: 87, nombre: "Lost Your Game Balls? Fix It Fast 🎯", descripcion: "Don’t let missing balls ruin your game night Keep your roll & score or toss games running smoothly with these durable replacement balls Perfect size for arcade-style games, ladder toss, and backyard fun. Built to handle endless throws without cracking. Includes 6 balls so you’re always ready to play. Great for family nights, parties, and outdoor fun 🎉", 
              imagen: "https://m.media-amazon.com/images/I/613wZQV4dbL._AC_SX466_PIcountsize-6,TopRight,0,0_SH20_.jpg", 
-                link: "https://amzn.to/48C5Qki", categoria: "Outdoor Adventure Gear" },                        
+                link: "https://amzn.to/48C5Qki", categoria: "Outdoor Adventure Gear" }, 
+    { id: 88, nombre: "💪The Must-Have for Coaches & PE Classes", descripcion: "Make practices more organized and comfortable for every player ⚽🔥These lightweight mesh training vests are perfect for soccer, basketball, football, PE classes, and team scrimmages. Breathable, durable, and easy to wear over sports gear — ideal for coaches, schools, and youth teams.", 
+             imagen: "https://m.media-amazon.com/images/I/71fXy+a+IiL._AC_SX679_.jpg", 
+                link: "https://amzn.to/4wmjItb", categoria: "Outdoor Adventure Gear" },                                   
            
             ];
